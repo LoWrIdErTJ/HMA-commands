@@ -1,0 +1,14 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\obj\x86\Debug\HMA Commands.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\obj\x86\Debug\CSVtoHTML.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\obj\x86\Debug\HMA Commands.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\bin\Debug\HMA Commands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\bin\Debug\HMA Commands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\obj\x86\Debug\HMA Commands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\HMA Commands\http post project\obj\x86\Debug\HMA Commands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\bin\Debug\HMA Commands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\bin\Debug\HMA Commands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\obj\x86\Debug\HMA Commands.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\obj\x86\Debug\CSVtoHTML.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\obj\x86\Debug\HMA Commands.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\obj\x86\Debug\HMA Commands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\HMA Commands\http post project\obj\x86\Debug\HMA Commands.pdb
